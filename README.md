@@ -11,7 +11,7 @@ In this project, I performed an end-to-end data analytics workflow on Blinkit Sa
 - **Filename:** `BlinkitSalesDataset`
 - **Total Records:** `50000`
 - **Primary Keys:** `order_id`,`product_id`,`customer_id`,`campaign_id`,`delivery_partner_id`,`feedback_id`
-- **Dashboard:** BlinkitDashboard (pending)
+- **Dashboard:** [Blinkit_Analysis confirm](https://datastudio.google.com/u/0/reporting/37625cf6-767c-474e-a2a0-d89779592686/page/ylevF)
 
 ## Tools & Technologies  
 
