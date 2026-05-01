@@ -44,12 +44,12 @@ In this project, I performed an end-to-end data analytics workflow on Blinkit Sa
 | conversions | Number of desired actions completed (e.g., purchase, signup) after clicking | Integer |
 
 ## Data Cleaning Notes  
-Removed duplicate values
-Handled missing or incomplete values
-Standardized product names, city names, and officiating roles
-Verified orders dates, time and month formats
-Ensured logical consistency between marketing campaign performance through ROAS, clicks, and impressions
-Structured categorical fields for better filtering in dashboards
+- Removed duplicate values
+- Handled missing or incomplete values
+- Standardized product names, city names, and officiating roles
+- Verified orders dates, time and month formats
+- Ensured logical consistency between marketing campaign performance through ROAS, clicks, and impressions
+- Structured categorical fields for better filtering in dashboards
 
 ## Product Dashboard  
 Pending image
@@ -87,6 +87,46 @@ Pending image
 - Follow seasonal demand for stocking products.
 - Set alerts for low stock and delayed deliveries.
 - Adopt more data-driven inventory management.
+
+## Customer Dashboard 
+Image pending
+
+### A.Key Insights
+
+- Blinkit collected feedback from 2,172 customers with 5,000 total feedback records.
+- The average customer rating is 3.34, showing moderate customer satisfaction.
+- Customer feedback remained mostly stable across months with slight fluctuations.
+- Positive sentiment customers mainly gave higher ratings compared to neutral and negative users.
+- Negative and neutral sentiments are still high, indicating improvement areas in service quality.
+- Feedback is almost equally distributed across delivery, customer service, product quality, and app experience.
+- Delivery received the highest share of customer complaints and suggestions.
+- Customer engagement was highest in May and August based on monthly customer count.
+- Customer feedback participation dropped in later months, showing reduced engagement.
+- Monthly listed customers gradually declined, which may signal lower feedback response rate.
+- Customer sentiment analysis shows mixed experiences rather than strongly positive satisfaction.
+- Product quality and app experience also contribute significantly to customer opinions.
+- The dashboard highlights that customer satisfaction is average, not excellent.
+- Blinkit needs to focus more on customer retention and service improvement.
+
+### B. Future Recommendations
+
+- Improve delivery service to reduce customer complaints.
+- Enhance customer support for faster issue resolution.
+- Focus on improving product quality consistency.
+- Upgrade app performance for better user experience.
+- Increase average customer rating through service improvements.
+- Convert neutral customers into positive customers with better engagement.
+- Take quick action on negative feedback areas.
+- Encourage more customers to give monthly feedback.
+- Launch loyalty offers to improve customer retention.
+- Track month-wise sentiment changes regularly.
+- Use feedback data for category-wise service planning.
+- Strengthen communication with dissatisfied customers.
+- Provide personalized offers based on customer reviews.
+- Set alerts for rising negative sentiment trends.
+- Adopt a customer-centric improvement strategy.
+
+- 
 
 
 
