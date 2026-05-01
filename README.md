@@ -5,7 +5,7 @@ Blinkit is a leading quick-commerce platform that enables ultra-fast delivery of
 
 In this project, I performed an end-to-end data analytics workflow on Blinkit Sales Data.Using Google Sheets for data preparation and Looker Studio for visualization, I designed an interactive dashboard that highlights key customer behavior, demand patterns, and operational efficiency insights in a clear and intuitive way.
 
-![CoverImage](SpotifyCoverphoto.png) (pending)
+![CoverImage](BlinkitCoverImage.png) 
 
 ## File Details
 - **Filename:** `BlinkitSalesDataset`
@@ -52,7 +52,7 @@ In this project, I performed an end-to-end data analytics workflow on Blinkit Sa
 - Structured categorical fields for better filtering in dashboards
 
 ## Product Dashboard  
-Pending image
+![Product Dashboard](ProductDashboard.png)
 
 ### A. Key Insights
 
@@ -89,7 +89,7 @@ Pending image
 - Adopt more data-driven inventory management.
 
 ## Customer Dashboard 
-Image pending
+![Customer Dashboard](CustomerDashboard.png)
 
 ### A.Key Insights
 
