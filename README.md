@@ -170,20 +170,20 @@ In this project, I performed an end-to-end data analytics workflow on Blinkit Sa
 ![Marketing Performance Dashboard](MarketingPerformanceDashboard.png)
 
 ### A. Key Insights
-5400K campaigns with moderate ROAS (2.74) : It indicates decent but improvable performance
-Clicks (550) low vs impressions (5400K) : It indicates weak conversion/engagement
-Channels evenly used (~25% each) : It indicates no dominant marketing channel
-Campaigns evenly spread across all audience types
-Spend vs clicks not strongly correlated
-Impressions stable but ROAS flat : It indicates limited optimization over time
+- 5400K campaigns with moderate ROAS (2.74) : It indicates decent but improvable performance
+- Clicks (550) low vs impressions (5400K) : It indicates weak conversion/engagement
+- Channels evenly used (~25% each) : It indicates no dominant marketing channel
+- Campaigns evenly spread across all audience types
+- Spend vs clicks not strongly correlated
+- Impressions stable but ROAS flat : It indicates limited optimization over time
 
 ### B. Future Recommendations
-Improve conversion rate with better creatives and targeting
-Shift budget toward high-ROAS campaigns and cut low performers
-A/B test channels to find the most effective one
-Focus on high-value audiences (premium & repeat users)
-Optimize ad timing to boost clicks and engagement
-Continuously monitor ROAS and adjust campaigns in real time
+- Improve conversion rate with better creatives and targeting
+- Shift budget toward high-ROAS campaigns and cut low performers
+- A/B test channels to find the most effective one
+- Focus on high-value audiences (premium & repeat users)
+- Optimize ad timing to boost clicks and engagement
+- Continuously monitor ROAS and adjust campaigns in real time
 
 ## Focus Outcomes
 Here are the focus outcomes for each dashboard:
