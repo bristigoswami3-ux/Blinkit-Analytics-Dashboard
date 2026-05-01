@@ -126,9 +126,89 @@ In this project, I performed an end-to-end data analytics workflow on Blinkit Sa
 - Set alerts for rising negative sentiment trends.
 - Adopt a customer-centric improvement strategy.
 
-- 
+## Order Dashboard
+![Order Dashboard](OrderDashboard.png)
+
+### A.Key Insights
+
+- Weak engagement: Large base (5000 users) but very low orders (2,201.86)
+- No dominant payment method because of that usage is evenly spread
+- Revenue and orders fluctuate because of inconsistent demand
+- Customers mostly stick to one payment mode
+- High growth potential if repeat orders improve
+
+### B. Future Recommendations
+- Boost repeat orders with discounts, subscriptions, or loyalty rewards
+- Promote UPI/Wallet via cashback to increase digital payments
+- Run targeted campaigns on low-activity days to stabilize demand
+- Improve user engagement with personalized offers & notifications
+- Analyze top customers and replicate their behavior patterns
+- Optimize peak days to maximize revenue during spikes
 
 
+## Inventory Dashboard  
+![Inventory Dashboard](InventoryDashboard.png)
 
 
+### A. Key Insights
+- Major inventory loss issue : Very high damaged stock (1,109 vs 1,465 total) 
+- Stock availability uneven across months because of inconsistent supply planning
+- October peak (403 stocks) indicates seasonal or bulk stocking trend
+- Some months near zero stock (Feb, Dec) it is a risk of stockouts
+- Top product ID ( 1 & 3) receive highest stock demand-focused stocking
+- Damage spread across products are not limited to a single item, systemic issue
 
+### B. Future Recommendations
+- Reduce damaged stock with better storage and handling practices
+- Improve demand forecasting to balance monthly inventory
+- Maintain safety stock to avoid zero-stock months
+- Optimize procurement planning for consistent supply
+- Monitor high-damage products for quality issues
+- Use data alerts for stock and damage irregularity
+
+## Marketing Performance Dashboard
+![Marketing Performance Dashboard](MarketingPerformanceDashboard.png)
+
+### A. Key Insights
+5400K campaigns with moderate ROAS (2.74) : It indicates decent but improvable performance
+Clicks (550) low vs impressions (5400K) : It indicates weak conversion/engagement
+Channels evenly used (~25% each) : It indicates no dominant marketing channel
+Campaigns evenly spread across all audience types
+Spend vs clicks not strongly correlated
+Impressions stable but ROAS flat : It indicates limited optimization over time
+
+### B. Future Recommendations
+Improve conversion rate with better creatives and targeting
+Shift budget toward high-ROAS campaigns and cut low performers
+A/B test channels to find the most effective one
+Focus on high-value audiences (premium & repeat users)
+Optimize ad timing to boost clicks and engagement
+Continuously monitor ROAS and adjust campaigns in real time
+
+## Focus Outcomes
+Here are the focus outcomes for each dashboard:
+
+### Customer Dashboard
+
+- Improve customer satisfaction and ratings by addressing negative sentiment and feedback trends
+- Increase customer retention by optimizing service, delivery, and app experience
+
+### Product Dashboard
+
+- Optimize pricing and margins while maintaining competitive product offerings
+- Improve inventory planning using shelf life and stock level insights
+
+### Inventory Dashboard
+
+- Reduce damaged stock and improve stock handling efficiency
+- Ensure consistent product availability through better stock forecasting
+
+### Marketing Performance Dashboard
+
+- Maximize ROI (ROAS) by optimizing campaign spend and targeting
+- Increase engagement (clicks & impressions) through effective channel performance
+
+### Order Dashboard
+
+- Improve delivery efficiency to increase on-time deliveries
+- Enhance revenue growth by optimizing payment methods and order trends
