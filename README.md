@@ -212,3 +212,6 @@ Here are the focus outcomes for each dashboard:
 
 - Improve delivery efficiency to increase on-time deliveries
 - Enhance revenue growth by optimizing payment methods and order trends
+
+## Acknowledgement
+I would like to extend special thanks to Satyaki Das for his exceptional guidance and mentorship throughout this journey. His in-depth knowledge, practical approach to data analytics, and constant encouragement helped me develop a strong understanding of real-world analytical workflows. His feedback not only improved the technical accuracy of this project but also enhanced my ability to think critically and present insights effectively.
